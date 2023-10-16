@@ -1,0 +1,47 @@
+h1 {
+
+    font-size: 18px; 
+    font-weight: bold; 
+    text-align: center;
+}
+label, p{
+    font-weight: bold; 
+}
+button {
+    background-color: #007BFF;
+    color: white; 
+    border: none; 
+    border-radius: 5px; 
+    padding: 10px 20px; 
+}
+select {
+    background-color: cadetblue; 
+    color: white; 
+    border: none; 
+    border-radius: 5px; 
+    padding: 5px; 
+}
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#bitcoin-price {
+    font-size: 18px;
+}
+#averages {
+    display: flex;
+    
+}
+.average {
+    flex: 1;
+    font-size: 15px;
+    padding: 10px;
+    text-align: center;
+}
+
+#chart{
+    width: 80%; 
+    height: 20%;
+}
