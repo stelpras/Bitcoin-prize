@@ -28,7 +28,7 @@ body {
     background-repeat: no-repeat;
 }
 #bitcoin-price {
-    font-size: 18px;
+    font-size: 15px;
 }
 #averages {
     display: flex;
@@ -36,12 +36,12 @@ body {
 }
 .average {
     flex: 1;
-    font-size: 15px;
+    font-size: 13px;
     padding: 10px;
     text-align: center;
 }
 
 #chart{
-    width: 80%; 
+    width: 70%; 
     height: 20%;
 }
