@@ -4,5 +4,5 @@ The application hits the API every one minute, and the graph will be automatical
 
 You can find it here:
 
-https://stelpras.github.io/Bitcoin-prizes_Javascript-API.s/
+https://stelpras.github.io/Bitcoin-prize-application/
 (Hit the Refresh button)
